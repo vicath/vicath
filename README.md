@@ -5,6 +5,7 @@
 - 😄 Pronouns: He/Him.
 
 <div>
-  https://github-readme-stats.vercel.app/api?username=vicath)](https://github.com/vicath/github-readme-stats
+  https://github-readme-stats.vercel.app/api?username=vicath
+  https://github.com/vicath/github-readme-stats
 </div>
 
