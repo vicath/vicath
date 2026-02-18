@@ -1,7 +1,7 @@
 # Hi, my name is vicath! 👋
 
 - 🔭 I'm currently working on creating my portfolio.
-- 🌱 I'm currently learning about Java SpringBoot and SQL.
+- 🌱 I'm currently learning about Java, SpringBoot and SQL.
 - 😄 Pronouns: He/Him.
 
 ### 🧠 Languages and technologies
