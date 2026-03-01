@@ -1,4 +1,4 @@
-# Hi, my name is vicath! 👋
+# Hi, my name is Vinícius! 👋
 
 - 🔭 I'm currently working on creating my portfolio.
 - 🌱 I'm currently learning about Java, SpringBoot and SQL.
