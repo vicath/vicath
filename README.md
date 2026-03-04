@@ -2,7 +2,6 @@
 
 - 🔭 I'm currently working on creating my portfolio.
 - 🌱 I'm currently learning about Java, SpringBoot and SQL.
-- 😄 Pronouns: He/Him.
 
 ### 🧠 Languages and technologies
 <div style="display: inline_block"><br>
